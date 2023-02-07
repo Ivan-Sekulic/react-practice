@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
+
+.header-img{
+    width: 40px;
+}
+
+.footer{
+    border-top: 1px solid #5BEFE8;
+    background-color: #5BEFE8;
+}
+
+.header{
+    border-bottom: 1px solid #5BEFE8;
+}
