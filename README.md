@@ -1,4 +1,4 @@
-##React practicing excercises
+## React practicing excercises
 
 # Getting Started with Create React App
 
